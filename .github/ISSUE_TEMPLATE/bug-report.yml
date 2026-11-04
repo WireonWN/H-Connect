@@ -1,0 +1,40 @@
+name: Ошибка в приложении
+description: Подключение, трафик, импорт или интерфейс
+title: "[Bug]: "
+body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Платформа
+      options:
+        - Android
+        - Windows
+        - Linux
+        - Другая
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Версии клиента, ядра и ОС
+      placeholder: Укажите версии из приложения и системы
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Как воспроизвести
+      description: Укажите протокол, тип сети, шаги и фактический результат. Не публикуйте ключи, пароли, UUID и приватные ссылки подписок.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Ожидаемый результат
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Дополнительные сведения
+      description: Скриншоты и очищенные от секретов фрагменты журналов.
