@@ -1,0 +1,31 @@
+# Installers belong in GitHub Releases, not the documentation history.
+*.apk
+*.aab
+*.apks
+*.exe
+*.msi
+*.msix
+*.AppImage
+*.deb
+*.rpm
+*.dmg
+*.pkg
+*.zip
+*.tar.gz
+*.tar.xz
+# Local secrets, diagnostics and caches
+.env
+.env.*
+private/
+private-test-inputs/
+server-backups/
+*.key
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.log
+*.pcap
+*.pcapng
+.DS_Store
+Thumbs.db
