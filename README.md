@@ -30,19 +30,19 @@
 
 | Платформа | Загрузка | Установка |
 | :--- | :--- | :--- |
-| **Android** | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.3.0/HorizonConnect-2.3.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) | [Инструкция](INSTALL.md#android) |
-| **Windows** | [![Windows .exe](assets/download-windows-exe.svg)](https://github.com/WireonWN/H-Connect/releases/download/windows-v2.1.1/HorizonConnect-2.1.1-Windows-x64-Setup.exe) | [Инструкция](INSTALL.md#windows) |
-| **Linux** | [![Debian / Ubuntu .deb](assets/download-linux-deb.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.1.1/HorizonConnect-2.1.1-Linux-amd64.deb) <br /> [![Fedora .rpm](assets/download-linux-rpm.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.1.1/HorizonConnect-2.1.1-Linux-x86_64.rpm) <br /> [![Arch / Manjaro .pkg.tar.zst](assets/download-linux-arch.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.1.1/HorizonConnect-2.1.1-Linux-x86_64.pkg.tar.zst) <br /> [![Linux .zip](assets/download-linux-zip.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.1.1/HorizonConnect-2.1.1-Linux-x86_64.zip) | [Инструкция](INSTALL.md#linux) |
+| **Android** | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.4.0/HorizonConnect-2.4.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) | [Инструкция](INSTALL.md#android) |
+| **Windows** | [![Windows .exe](assets/download-windows-exe.svg)](https://github.com/WireonWN/H-Connect/releases/download/windows-v2.2.0/HorizonConnect-2.2.0-Windows-x64-Setup.exe) | [Инструкция](INSTALL.md#windows) |
+| **Linux** | [![Debian / Ubuntu .deb](assets/download-linux-deb.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-amd64.deb) <br /> [![Fedora .rpm](assets/download-linux-rpm.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.rpm) <br /> [![Arch / Manjaro .pkg.tar.zst](assets/download-linux-arch.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.pkg.tar.zst) <br /> [![Linux .zip](assets/download-linux-zip.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.zip) | [Инструкция](INSTALL.md#linux) |
 
 ## Версии
 
 | Платформа | Выпуск | Ветка |
 | :--- | :--- | :--- |
-| Windows | [2.1.1](https://github.com/WireonWN/H-Connect/releases/tag/windows-v2.1.1) | [![Ветка windows](assets/branch-windows.svg)](https://github.com/WireonWN/H-Connect/tree/windows) |
-| Linux | [2.1.1](https://github.com/WireonWN/H-Connect/releases/tag/linux-v2.1.1) | [![Ветка linux](assets/branch-linux.svg)](https://github.com/WireonWN/H-Connect/tree/linux) |
-| Android | [2.3.0](https://github.com/WireonWN/H-Connect/releases/tag/android-v2.3.0) | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.3.0/HorizonConnect-2.3.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) |
+| Windows | [2.2.0](https://github.com/WireonWN/H-Connect/releases/tag/windows-v2.2.0) | [![Ветка windows](assets/branch-windows.svg)](https://github.com/WireonWN/H-Connect/tree/windows) |
+| Linux | [2.2.0](https://github.com/WireonWN/H-Connect/releases/tag/linux-v2.2.0) | [![Ветка linux](assets/branch-linux.svg)](https://github.com/WireonWN/H-Connect/tree/linux) |
+| Android | [2.4.0](https://github.com/WireonWN/H-Connect/releases/tag/android-v2.4.0) | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.4.0/HorizonConnect-2.4.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) |
 
-[Что изменилось в выпуске](docs/RELEASE-2026-11-13.md) · [Обновления приложения](docs/UPDATES.md)
+[Что изменилось в выпуске](docs/RELEASE-2026-11-18.md) · [Обновления приложения](docs/UPDATES.md)
 
 ## Возможности
 
