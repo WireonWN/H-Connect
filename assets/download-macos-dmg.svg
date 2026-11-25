@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="24" viewBox="0 0 128 24" role="img" aria-labelledby="title">
-  <title id="title">Скачать DMG для macOS</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="20" viewBox="0 0 90 20" role="img" aria-labelledby="title">
+  <title id="title">macOS .dmg</title>
   <defs>
-    <linearGradient id="background" x2="0" y2="1">
-      <stop stop-color="#6546ba"/>
-      <stop offset="1" stop-color="#4a3194"/>
-    </linearGradient>
+    <clipPath id="badge"><rect width="90" height="20" rx="3"/></clipPath>
   </defs>
-  <rect x=".5" y=".5" width="127" height="23" rx="5.5" fill="url(#background)" stroke="#9675ea"/>
-  <path d="M17 5.5v8m-3.25-3.25L17 13.5l3.25-3.25M11.5 15v2a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-2"
-        fill="none" stroke="#f4efff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="32" y="16" fill="#fff" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="600">Скачать DMG</text>
+  <g clip-path="url(#badge)">
+    <rect width="90" height="20" fill="#586069"/>
+    <rect width="51" height="20" fill="#555"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
+    <text x="25.5" y="14">macOS</text>
+    <text x="70.5" y="14">.dmg</text>
+  </g>
 </svg>
