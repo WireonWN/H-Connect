@@ -8,9 +8,9 @@
 
 # Horizon Connect 1.0.0 для macOS
 
-🙀 Завёз первый выпуск Horizon Connect для Mac
+Завёз первый выпуск Horizon Connect для Mac
 
-💻 Apple Silicon · macOS 15+
+Apple Silicon · macOS 15+
 
 [![Скачать DMG для macOS](assets/download-macos-dmg.svg)](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg) · [Установка](INSTALL.md#macos)
 
