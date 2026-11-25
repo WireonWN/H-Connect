@@ -4,7 +4,7 @@
 
 💻 Apple Silicon · macOS 15+
 
-[Скачать DMG](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg) · [Установка](../INSTALL.md#macos)
+[![Скачать DMG для macOS](../assets/download-macos-dmg.svg)](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg) · [Установка](../INSTALL.md#macos)
 
 ## Что есть в первой версии
 

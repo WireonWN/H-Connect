@@ -32,7 +32,7 @@ Windows 10/11, x64
 
 ## macOS
 
-[Скачать DMG 1.0.0](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg)
+[![Скачать DMG 1.0.0 для macOS](assets/download-macos-dmg.svg)](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg)
 
 Требуется macOS 15 или новее и Mac с Apple Silicon
 
