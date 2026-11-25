@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#ядро-airx"><img src="assets/badge-airx.svg" alt="Core: AirX" /></a>
-  <a href="INSTALL.md"><img src="assets/badge-platforms.svg" alt="Android, Windows, Linux" /></a>
+  <a href="INSTALL.md"><img src="assets/badge-platforms.svg" alt="Android, Windows, Linux, macOS" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.horizon.connect"><img src="assets/badge-play.svg" alt="Google Play: Android" /></a>
   <br />
   <a href="https://play.google.com/store/apps/details?id=com.horizon.connect"><img src="assets/stats-installs-30000.svg" alt="Google Play: 30 000 скачиваний" /></a>
@@ -32,6 +32,7 @@
 | :--- | :--- | :--- |
 | **Android** | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.4.0/HorizonConnect-2.4.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) | [Инструкция](INSTALL.md#android) |
 | **Windows** | [![Windows .exe](assets/download-windows-exe.svg)](https://github.com/WireonWN/H-Connect/releases/download/windows-v2.2.0/HorizonConnect-2.2.0-Windows-x64-Setup.exe) | [Инструкция](INSTALL.md#windows) |
+| **macOS** | [![macOS .dmg](assets/download-macos-dmg.svg)](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg) | [Инструкция](INSTALL.md#macos) |
 | **Linux** | [![Debian / Ubuntu .deb](assets/download-linux-deb.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-amd64.deb) <br /> [![Fedora .rpm](assets/download-linux-rpm.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.rpm) <br /> [![Arch / Manjaro .pkg.tar.zst](assets/download-linux-arch.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.pkg.tar.zst) <br /> [![Linux .zip](assets/download-linux-zip.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.zip) | [Инструкция](INSTALL.md#linux) |
 
 ## Версии
@@ -39,10 +40,11 @@
 | Платформа | Выпуск | Ветка |
 | :--- | :--- | :--- |
 | Windows | [2.2.0](https://github.com/WireonWN/H-Connect/releases/tag/windows-v2.2.0) | [![Ветка windows](assets/branch-windows.svg)](https://github.com/WireonWN/H-Connect/tree/windows) |
+| macOS | [1.0.0](https://github.com/WireonWN/H-Connect/releases/tag/macos-v1.0.0) | [![Ветка macos](assets/branch-macos.svg)](https://github.com/WireonWN/H-Connect/tree/macos) |
 | Linux | [2.2.0](https://github.com/WireonWN/H-Connect/releases/tag/linux-v2.2.0) | [![Ветка linux](assets/branch-linux.svg)](https://github.com/WireonWN/H-Connect/tree/linux) |
 | Android | [2.4.0](https://github.com/WireonWN/H-Connect/releases/tag/android-v2.4.0) | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.4.0/HorizonConnect-2.4.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) |
 
-[Что изменилось в выпуске](docs/RELEASE-2026-11-18.md) · [Обновления приложения](docs/UPDATES.md)
+[Что изменилось в выпуске](docs/RELEASE-2026-11-18.md) · [Первый выпуск для macOS](docs/MACOS.md) · [Обновления приложения](docs/UPDATES.md)
 
 ## Возможности
 

@@ -8,6 +8,7 @@
 | :--- | :--- | :--- |
 | Android | [![APK](assets/badge-apk.svg)](https://github.com/WireonWN/H-Connect/releases/download/android-v2.4.0/HorizonConnect-2.4.0-Android.apk) [![Google Play](assets/badge-play.svg)](https://play.google.com/store/apps/details?id=com.horizon.connect) | [Android](#android) |
 | Windows | [![Windows .exe](assets/download-windows-exe.svg)](https://github.com/WireonWN/H-Connect/releases/download/windows-v2.2.0/HorizonConnect-2.2.0-Windows-x64-Setup.exe) | [Windows](#windows) |
+| macOS | [![macOS .dmg](assets/download-macos-dmg.svg)](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg) | [macOS](#macos) |
 | Linux | [![Debian / Ubuntu .deb](assets/download-linux-deb.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-amd64.deb) <br /> [![Fedora .rpm](assets/download-linux-rpm.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.rpm) <br /> [![Arch / Manjaro .pkg.tar.zst](assets/download-linux-arch.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.pkg.tar.zst) <br /> [![Linux .zip](assets/download-linux-zip.svg)](https://github.com/WireonWN/H-Connect/releases/download/linux-v2.2.0/HorizonConnect-2.2.0-Linux-x86_64.zip) | [Linux](#linux) |
 
 Файлы конкретной версии находятся в **Assets** её релиза
@@ -28,6 +29,18 @@ Windows 10/11, x64
 Запустите EXE, выберите папку и нужные ярлыки
 Автозапуск можно включить при установке или позже в настройках приложения
 Установщик сохраняет подписки и пользовательские настройки
+
+## macOS
+
+[Скачать DMG 1.0.0](https://github.com/WireonWN/H-Connect/releases/download/macos-v1.0.0/HorizonConnect-1.0.0-macOS-arm64.dmg)
+
+Требуется macOS 15 или новее и Mac с Apple Silicon
+
+1. Откройте DMG и перетащите Horizon Connect в «Программы»
+2. Запустите приложение из «Программ» и добавьте подписку или конфиг
+3. При первом подключении разрешите системное расширение, если macOS покажет запрос
+
+[Что вошло в первый выпуск](docs/MACOS.md)
 
 ## Linux
 
